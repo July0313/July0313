@@ -4,10 +4,6 @@
 
 ![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=July0313&show_icons=true&theme=tokyonight)
 
-<div align=center><h2>:pencil2:Using Languages</h2></div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=July0313&layout=compact)](https://github.com/July0313/github-readme-stats)
-
 <div align=center><h2>:hatching_chick:I'm learning</h2></div>
 
 ![](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white)
