@@ -12,6 +12,7 @@
 
 ![](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=rdbms&logoColor=white)
 
 <div align=center><h2>:telephone:Contact Me</h2></div>
 
