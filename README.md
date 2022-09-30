@@ -12,8 +12,8 @@
 
 ![](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![](https://img.shields.io/badge/MySQL-001013?style=flat-square&logo=Mysql&logoColor=white)
-![](https://img.shields.io/badge/GitHub-204932?style=flat-square&logo=GitHub&logoColor=white)
+![](https://img.shields.io/badge/MySQL-029435?style=flat-square&logo=Mysql&logoColor=white)
+![](https://img.shields.io/badge/GitHub-104932?style=flat-square&logo=GitHub&logoColor=white)
 
 <div align=center><h2>:telephone:Contact Me</h2></div>
 
