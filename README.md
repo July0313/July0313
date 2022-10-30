@@ -7,7 +7,7 @@
 <div align=center><h2>:hatching_chick:I'm learning</h2></div>
 
 ![](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white)
+![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
